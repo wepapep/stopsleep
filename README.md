@@ -3,9 +3,9 @@
 
 This simple Batch script should stop your PC from going to sleep, locking the screen, and setting your status to "inactive". 
 
-Download the lungcancer.bat file, double-click it and _walla_.
-
 Very useful in corporate environment. 
+
+Download the lungcancer.bat file, double-click it and _walla_.
 
 The script waits 30 seconds, open another instance of the script and quits.
 This creates an infinite loop of starting and closing windows. 
